@@ -2,9 +2,9 @@
 javascript actions for quickly saving TIF, PSD, and JPEG output 
 
 Hi all - after searching what seems to have been the entire internet to no avail and finding many people looking for the same things, I hacked these scripts together based 
-on some code I found somwhere along the search. I cannot recall where I found it but to whoever the original author/s is/are, I am eternally grateful and beg forgiveness. 
+on some code I found somewhere along the search. I cannot recall where I found it but to whoever the original author/s is/are of the parts and pieces, I am eternally grateful and beg forgiveness. 
 
-Anyhow, four files here - 
+Anyhow, four files here that have saved me hours of time in the few months I've been using them. I've not tested them on OSX. 
 1) savePSD.jsx - saves a PSD version of the current document 
 2) saveAsJPEG.jsx - saves JPEG version of the current document, quality = 10 
 3) saveJPEG10_date.jsx - saves JPEG version of the current document, quality = 10, appends fast "YYMMDD.HHMM" suffix to file name.
@@ -12,7 +12,6 @@ Anyhow, four files here -
 
 On Windows10, save these into the "C:\Program Files\Adobe\Adobe Photoshop 2021\Presets\Scripts\" directory and start/restart photoshop. Record teh scripts into Actions and 
 assign a shortcut key....see "saveAsActions.jpg" 
-
 
 Javascript source code if you're curious:
 
