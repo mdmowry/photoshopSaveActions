@@ -1,5 +1,5 @@
 # photoshopSaveActions
-javascript actions for quickly saving TIF, PSD, and JPEG output 
+javascript actions for quickly saving TIF, PSD, and JPEG output from Photoshop 
 
 Hi all - after searching what seems to have been the entire internet to no avail and finding many people looking for the same things, I hacked these scripts together based 
 on some code I found somewhere along the search. I cannot recall where I found it but to whoever the original author/s is/are of the parts and pieces, I am eternally grateful and beg forgiveness. 
